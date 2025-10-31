@@ -64,7 +64,7 @@ A modern, responsive web app for **personalized meal delivery**.
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://vs-sam007.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
