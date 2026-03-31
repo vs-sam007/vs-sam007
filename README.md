@@ -44,8 +44,8 @@
 
 ## 🚀 Featured Project  
 
-### 🍽️ [Dental Clinic – Dental Clinic is a modern dental care landing page showcasing professional dental services, advanced treatments, and patient-focused care.](https://fluffy-tarsier-90be73.netlify.app/)  
-A modern, responsive web app for **personalized meal delivery**.  
+### [Dental Clinic – Dental Clinic is a modern dental care landing page showcasing professional dental services, advanced treatments, and patient-focused care.](https://fluffy-tarsier-90be73.netlify.app/)  
+A modern, responsive web app for **Dental Clinics**.  
 
 ✅ Features:  
  
