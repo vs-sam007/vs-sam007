@@ -63,7 +63,7 @@ A modern, responsive web app for **Dental Clinics**.
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://vs-sam007.github.io/">
+  <a href="https://new-portfolio001.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
