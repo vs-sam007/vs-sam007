@@ -44,14 +44,14 @@
 
 ## 🚀 Featured Project  
 
-### 🍽️ [FreshPlate – Personalized Meal Delivery Platform](https://your-live-demo-link.com)  
+### 🍽️ [Dental Clinic – Dental Clinic is a modern dental care landing page showcasing professional dental services, advanced
+treatments, and patient-focused care.](https://fluffy-tarsier-90be73.netlify.app/)  
 A modern, responsive web app for **personalized meal delivery**.  
 
 ✅ Features:  
-- 🥗 Dynamic meal filters (diet, spice, health goals)  
-- 🤖 AI-driven quiz recommender  
-- 📊 User dashboard with insights  
-- 🌟 Interactive customer reviews carousel  
+ 
+ - 🤖 High end animation in the hero section  
+ - 📊 User dashboard with insights  
 
 
 
