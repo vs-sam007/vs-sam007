@@ -72,13 +72,15 @@ fun_fact:          "debugging is 90% of the job — I'm okay with that"
 
 <div align="center">
 
-### 🦷 [Dental Clinic — Modern Dental Care Landing Page](https://fluffy-tarsier-90be73.netlify.app/)
-*A responsive, high-end web app for dental clinics with immersive UI.*
+### 🎓 [PFDA-Software — Institute Management System](https://github.com/vs-sam007/PFDA-Software.git)
+*A full-stack application built for educational institutes to manage day-to-day operations digitally.*
 
 | Feature | Description |
 |---|---|
-| 🤖 | High-end animation in the hero section |
-| 📊 | User dashboard with insights |
+| 🧑‍🎓 | Student & teacher record management |
+| ✅ | Attendance tracking system |
+| 💰 | Fee management & payment records |
+| 🗂️ | Centralized data storage for institute records |
 
 </div>
 
