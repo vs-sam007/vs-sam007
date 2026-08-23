@@ -88,17 +88,17 @@ fun_fact:          "debugging is 90% of the job — I'm okay with that"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vs-sam007&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&ring_color=39FF14&count_private=true" height="165"/>
+<img src="https://github-readme-stats-rose-omega-66.vercel.app/api?username=vs-sam007&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&ring_color=39FF14&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vs-sam007&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=ffffff&sideNums=ffffff&dates=39FF14" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-sam007&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-rose-omega-66.vercel.app/api/top-langs/?username=vs-sam007&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&langs_count=8" height="165"/>
 
 </div>
 
 <br/>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake.svg" alt="contribution snake animation" /> 
-  
+<div align="center">
+<img src="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 
 <br/>
