@@ -19,10 +19,10 @@
 
 ```ansi
 [SYSTEM BOOT] ---------------------------------------------------
-> initializing profile_module...
-> loading identity: Samradh Srivastava
-> role: B.Tech CSE Student | Web Development Enthusiast
-> mission: Build real-world projects. Break things. Ship better ones.
+> Initializing profile_module...
+> Loading Identity: Samradh Vikram Srivastava
+> Role: B.Tech CSE Student | Web Development Enthusiast
+> Mission: Build real-world projects. Break things. Ship better ones.
 > connection secure. rendering README.md...
 -------------------------------------------------------------------
 ```
