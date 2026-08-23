@@ -1,73 +1,143 @@
-<h1 align="center">👋 Hey, I'm Samradh Srivastava</h1>  
+<div align="center">
 
-<p align="center">
-  🎓 B.Tech CSE Student | 💻 Web Development Enthusiast | 🚀 Aspiring Software Engineer  
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=220&section=header&text=SAMRADH%20SRIVASTAVA&fontSize=42&fontColor=39FF14&fontAlignY=38&animation=fadeIn&desc=SYSTEM.EXE%20%3E%3E%20FULL_STACK_DEVELOPER&descAlignY=55&descSize=18&descAlign=50" width="100%"/>
 
----
+<br/>
 
-## 🧑‍💻 About Me  
-✨ Curious coder passionate about **building real-world projects**.  
-🌱 Currently exploring **Full Stack Development** & **AI/ML**.  
-💡 Love solving problems with code and creating **impactful applications**.  
-🎯 Goal: Contribute to **open-source** & land exciting internships.  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&repeat=true&width=650&height=60&lines=%3E+whoami+%3A+Samradh+Srivastava;%3E+role+%3A+B.Tech+CSE+Student;%3E+stack+%3A+Full+Stack+%2B+AI%2FML;%3E+status+%3A+Open+to+Internships;%3E+access_granted+%E2%9C%93" alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## ⚡ Tech Stack  
+![Profile Views](https://komarev.com/ghpvc/?username=vs-sam007&label=SYSTEM+ACCESSED&color=39FF14&style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000)
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+</div>
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=flat&logo=alpine.js&logoColor=white)  
+<br/>
 
-**Backend / DB**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+```ansi
+[SYSTEM BOOT] ---------------------------------------------------
+> initializing profile_module...
+> loading identity: Samradh Srivastava
+> role: B.Tech CSE Student | Web Development Enthusiast
+> mission: Build real-world projects. Break things. Ship better ones.
+> connection secure. rendering README.md...
+-------------------------------------------------------------------
+```
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+<br/>
 
----
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ cat about_me.txt`
 
-## 🚀 Featured Project  
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=vs-sam007&theme=react-dark&bg_color=000000&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" width="0" height="0" style="display:none"/>
 
-### [Dental Clinic – Dental Clinic is a modern dental care landing page showcasing professional dental services, advanced treatments, and patient-focused care.](https://fluffy-tarsier-90be73.netlify.app/)  
-A modern, responsive web app for **Dental Clinics**.  
+```yaml
+curious_coder:     true
+currently_building: [ Full Stack Apps, AI/ML Experiments ]
+philosophy:        "solve problems with code, ship things that matter"
+current_goal:      "contribute to open-source & land a great internship"
+fun_fact:          "debugging is 90% of the job — I'm okay with that"
+```
 
-✅ Features:  
- 
- - 🤖 High end animation in the hero section  
- - 📊 User dashboard with insights  
+<br/>
 
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./run_tech_stack.sh`
 
+<div align="center">
 
-## 🌐 Connect with Me  
+**LANGUAGES**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js&theme=dark" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samradh-vikram-srivastava-485b0631b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://samradh-srivastava.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+**FRONTEND**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/Alpine.js-000000?style=for-the-badge&logo=alpine.js&logoColor=39FF14&labelColor=000000"/>
 
----
+**BACKEND / DATABASE**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-⭐️ From [Samradh Srivastava](https://github.com/vs-sam007)  
+**TOOLS**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./featured_project.sh`
+
+<div align="center">
+
+### 🦷 [Dental Clinic — Modern Dental Care Landing Page](https://fluffy-tarsier-90be73.netlify.app/)
+*A responsive, high-end web app for dental clinics with immersive UI.*
+
+| Feature | Description |
+|---|---|
+| 🤖 | High-end animation in the hero section |
+| 📊 | User dashboard with insights |
+
+</div>
+
+<br/>
+
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./fetch_stats.sh --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vs-sam007&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&ring_color=39FF14&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vs-sam007&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=ffffff&sideNums=ffffff&dates=39FF14" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-sam007&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./contribution_matrix.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./connect.sh --all`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/samradh-vikram-srivastava-485b0631b">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000"/>
+</a>
+<a href="mailto:sam.srivastava015@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000"/>
+</a>
+<a href="https://samradh-srivastava.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=000000"/>
+</a>
+<a href="https://github.com/vs-sam007">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000"/>
+</a>
+
+</div>
+
+<br/>
+
+```ansi
+[CONNECTION CLOSED] ---------------------------------------------
+> thank you for visiting root@vs-sam007
+> "code today, deploy tomorrow, dominate forever."
+-------------------------------------------------------------------
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=100&section=footer"/>
+</div>
