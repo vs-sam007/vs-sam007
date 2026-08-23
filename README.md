@@ -97,15 +97,8 @@ fun_fact:          "debugging is 90% of the job — I'm okay with that"
 
 <br/>
 
-## <img src="https://skillicons.dev/icons?i=terminal&theme=dark" width="28"/> `root@github:~$ ./contribution_matrix.sh`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake.svg" />
-</picture>
-
+<div align="center"> <img src="https://raw.githubusercontent.com/vs-sam007/vs-sam007/output/github-contribution-grid-snake.svg" alt="contribution snake animation" /> 
+  
 </div>
 
 <br/>
